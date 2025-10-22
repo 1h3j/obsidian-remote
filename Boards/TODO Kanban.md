@@ -57,6 +57,7 @@ kanban-plugin: list
 
 ## :LiCalendarCheck: This Week <br>(Prio:Top-Bottom)
 
+- [ ] 
 
 
 ## 📅 Planning To Do

@@ -180,6 +180,7 @@
       {
         "id": "4e9e2cba5672b759",
         "type": "tabs",
+        "dimension": 58.0246913580247,
         "children": [
           {
             "id": "f5dfb49821aee8d2",
@@ -270,6 +271,23 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7d9bb47cf2777e85",
+        "type": "tabs",
+        "dimension": 41.9753086419753,
+        "children": [
+          {
+            "id": "ab3a46876af292b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
