@@ -1,0 +1,4 @@
+## Simplify
+$$\log(25) - \log(5) = \log(\frac{25}{5}) = \log(5)$$ $$\log(15) - \log(3) = \log(\frac{15}{3}) = \log(5)$$ $$\log_{4}(16) - \log_{4}(6) = \log_{4}(\frac{16}{6}) = \log_{4}(\frac{8}{3})$$ $$\log_{9}(128) - \log_{9}(16) - \log_{9}(a) = \log_{9}(\frac{128}{16}) = \log_{9}(8)$$ $$\log_{9}(5) + \log_{9}(32) - \log_{9}(16) = \log_{9}(5 \times 32 \div 16) = \log_{9}(5 \times 2) \log_{9}(10)$$
+## Expand
+$$\log(\frac{5}{2}) = \log(5) - \log(2)$$ $$\log(\frac{32}{9}) = \log(32) - \log(9)$$ $$\log_{15}(\frac{32a}{c}) = \log_{15}(32) + \log_{15}(a) - \log_{15}(c)$$ $$\log_{3}(\frac{8}{7}) = \log_{3}(8) - \log_{3}(7)$$ $$\log_{3}(0.5) = \log_{3}(\frac{1}{2}) = \log_{3}(1) - \log_{3}(2)$$

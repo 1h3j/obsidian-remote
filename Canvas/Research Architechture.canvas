@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"62fb559a3dfdc112","type":"group","x":-1120,"y":-580,"width":1040,"height":270,"color":"1","label":"Server"},
+		{"id":"d1d3905e4988aba6","type":"group","x":-1110,"y":-160,"width":380,"height":100,"color":"5","label":"Application / Client"},
+		{"id":"3cdc393ce56e6561","type":"group","x":-1065,"y":-800,"width":290,"height":100,"color":"4","label":"Tablet / Main Device"},
+		{"id":"9df5574bff8d4ae5","type":"group","x":-1520,"y":-560,"width":240,"height":100,"color":"4","label":"Queue Display"},
+		{"id":"a0a3063c467dd122","type":"text","text":"TCP SERVER: Action Receiver","x":-1050,"y":-542,"width":260,"height":60,"color":"6"},
+		{"id":"e2a0265a02620a02","type":"text","text":"Database For Storing Info","x":-400,"y":-542,"width":250,"height":60},
+		{"id":"79de2b00cd8a7109","type":"text","text":"Frontend / UI","x":-1010,"y":-780,"width":180,"height":60},
+		{"id":"5ff85e74a4772a00","type":"text","text":"HTTP/S SERVER: Database Gateway","x":-760,"y":-542,"width":299,"height":60,"color":"6"},
+		{"id":"0dfe4a3596a5c23a","type":"text","text":"Push Notification Server","x":-1050,"y":-425,"width":260,"height":60,"color":"5"},
+		{"id":"8c8cec02beebd1f4","type":"text","text":"Frontend / UI","x":-1002,"y":-140,"width":165,"height":60},
+		{"id":"012aa566b679b187","type":"text","text":"Frontend / UI","x":-1480,"y":-540,"width":160,"height":60}
+	],
+	"edges":[
+		{"id":"76c1e39a759edd67","fromNode":"3cdc393ce56e6561","fromSide":"bottom","toNode":"a0a3063c467dd122","toSide":"top","label":"Notify Teacher"},
+		{"id":"b80a533393f99dc2","fromNode":"5ff85e74a4772a00","fromSide":"top","toNode":"3cdc393ce56e6561","toSide":"right","label":"Update Information\non Device"},
+		{"id":"9c4335f5f154ec3a","fromNode":"a0a3063c467dd122","fromSide":"left","toNode":"9df5574bff8d4ae5","toSide":"right","label":"Update Display"},
+		{"id":"a37d2bfa424ebfd2","fromNode":"0dfe4a3596a5c23a","fromSide":"bottom","toNode":"d1d3905e4988aba6","toSide":"top","label":"Send Phone Notification"},
+		{"id":"be8f64f181b68222","fromNode":"d1d3905e4988aba6","fromSide":"right","toNode":"5ff85e74a4772a00","toSide":"bottom","label":"Register Accounts,\nUpdating Account Info"},
+		{"id":"6255e025e08ffa84","fromNode":"5ff85e74a4772a00","fromSide":"right","toNode":"e2a0265a02620a02","toSide":"left","fromEnd":"arrow"},
+		{"id":"bd5553898827f6d5","fromNode":"a0a3063c467dd122","fromSide":"bottom","toNode":"0dfe4a3596a5c23a","toSide":"top"}
+	]
+}

@@ -1,0 +1,118 @@
+# Outline
+- Introduction of the Commandments
+	- What?
+		- Eternal laws of God
+		- ONLY part of the Bible that is written directly by God
+	- Decalogue
+		- The Commandments are called the Decalogue which means "The Ten Words", this is because in Hebrew, each Commandment can be summarized in one word
+		- In the Hebrew Decalogue, it's written in right to left
+	- Covenant
+		- The Commandments are also called the Covenant because it's the terms of agreement between God and men
+		- It was preserved in the Ark of the Covenant
+	- Versions of the Commandments
+		- Exodus 20:1-17
+		- Deuteronomy 5:6-21
+		- Catechetical Version *(Summarization of Exo 20:1-17 and Deut 5:6-21)*
+	- Jesus gave the Commandments a new spirit, to observe them not out of fear or punishment, but for the love for God.
+		- St. Augustine summarized Jesus' teachings with a maxim: "Love, and do what you want."
+	- Conscience
+		- Conscience is the mysterious voice of God in our heart.
+		- Conscience must be developed through study and practice of the virtues
+		- It is the criterion for our final judgement
+	- Sin
+		- Act of disobedience
+		- Evil action involving our intellect and will
+		- We need only to confess our Sins, not our Mistakes.
+		- Types:
+			- Venial Sin
+				- Small matter
+			- Mortal Sin
+				- Serious matter
+			- The distinction was defined by St. John: "There is such a thing as deadly sin, but there is sin that is not deadly (1 John 5:16-17)"
+	- Vices and Virtues
+		- Virtue is the habitual disposition to do good, Vice is the opposite (evil).
+		- 4 Cardinal Virtues
+			- Prudence
+			- Justice
+			- Fortitude
+			- Temperance
+		- 3 Theological Virtues
+			- Faith
+			- Hope
+			- Love
+		- 7 Capital Vices (7 Deadly Sins)
+			- Pride
+			- Greed
+			- Lust
+			- Envy
+			- Gluttony
+			- Wrath
+			- Sloth
+
+- 1st Commandment
+	- I am the Lord your God: You shall not have strange gods before me.
+	- God revealed His name as "Yahweh" and declared his achievement: "I brought you out of the Land of Egypt"
+	- The Decalogue applies to all men alike, not just Jews
+	- Every person can find the Decalogue inscribed in their Conscience
+	- Positive Commands
+		- Faith
+		- Hope
+		- Love
+	- Negative Commands
+		- Atheism and Agnosticism
+			- Deny God's existence
+		- Polytheism and Idolatry
+			- Believe and worship false idols
+		- Heresy, Schism and Apostasy
+			- Believe in false doctrine
+		- Satanism
+			- Adore Lucifer and his fallen angels
+		- Divination
+			- Recourse to supernatural powers, demons, or souls of the dead
+		- Indifference, Ingratitude and Sacrilege
+			- To have no appreciation, concern, or respect for God
+		- Presumption and Despair
+			- Believe in self-righteousness or to lose hope in salvation
+	- Difference between Active and Passive Hope
+		- Active Hope
+			- Working zealously for the glory of God and the salvation of souls
+		- Passive Hope
+			- Living in idleness
+		- St. Paul scolded those woh waited for the coming of Jesus in a passive mode, commanding: "Those who do not work must not eat" (2 Thess. 3:10)
+	- Difference between Atheism and Agnosticism
+		- Atheism is the refusal to believe in the existence of God
+		- Agnosticism is the lack of concern for God, based on the supposition that he cannot be known
+	- Atheism is a sin because the existence of God can be known by observing the world around us.
+	- Polytheism and Idolatry
+		- Three greatest idols
+			- Greed
+			- Lust
+			- Pride
+		- Evangelical Counsels (Against 3 greatest idols)
+			- Poverty
+			- Chastity
+			- Obedience
+	- Veneration of the Saints
+		- Adoration is reserved for God alone
+		- Veneration is the act of respect we render to the Saints as a source of inspiration, instruction, and intercession
+		- Three reasons to venerate the Saints
+			- Inspiration
+			- Instruction
+			- Intercession
+			
+- 2nd Commandment
+	- You shall not take the name of the Lord, your God in vain
+	- God's Name
+		- In the Old Testament: Yahweh
+		- In the New Testament: Father, Son, and Holy Spirit
+	- Titles of God
+		- God's name indicates his nature; while God's titles refer to his activity:
+			- Adonai - Master of the Universe
+			- Elohim - Lord of Power and Might
+			- Sabaoth - Lord of the Heavenly Armies
+			- El Shaddai - The Provider
+	- The name "Yahweh" was so holy that it could be pronounced only by the High Priest once a year, on the Day of Atonement.
+	- When pronouncing Yahweh, the Israelites has to pronounce the title Adonai instead when pronouncing Yahweh in prayers or Scripture readings
+	- The word Jehovah is a pseudonym obtained by intersecting the consonants of the name, Yahweh (YHWH), with the vowels of the title Adonai (AOA), this way, when the readers would come across the fictitious name Yahowah, they would be reminded to pronounce Adonai and not Yahweh.
+
+- 3rd Commandment

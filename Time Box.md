@@ -1,0 +1,1 @@
+> A time where focus flows freely and distractions are supressed

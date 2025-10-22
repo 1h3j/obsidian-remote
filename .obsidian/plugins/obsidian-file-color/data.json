@@ -1,0 +1,43 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "ojznYWt1V68GEslgirm6j",
+      "name": "Important",
+      "value": "#eeff00"
+    },
+    {
+      "id": "GPkWnO2iTiouOV15k30ZR",
+      "name": "Notes",
+      "value": "#5cb0ff"
+    },
+    {
+      "id": "V31eWXLEKUx2q692sln8N",
+      "name": "Random",
+      "value": "#ff0000"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Boards/TODO Kanban.md",
+      "color": "ojznYWt1V68GEslgirm6j"
+    },
+    {
+      "path": "Python for Beginners.md",
+      "color": "GPkWnO2iTiouOV15k30ZR"
+    },
+    {
+      "path": "Random/Plan to get out of Philippines.md",
+      "color": "V31eWXLEKUx2q692sln8N"
+    },
+    {
+      "path": "Random",
+      "color": "V31eWXLEKUx2q692sln8N"
+    },
+    {
+      "path": "Boards/Counters Kanban.md",
+      "color": "V31eWXLEKUx2q692sln8N"
+    }
+  ]
+}

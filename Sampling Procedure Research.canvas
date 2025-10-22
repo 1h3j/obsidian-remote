@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ba71edc1361d4c1b","type":"group","x":-100,"y":-440,"width":300,"height":260,"label":"Second Phase"},
+		{"id":"96ee70fcfc4d5aa2","type":"group","x":-400,"y":-280,"width":280,"height":100,"label":"Third Phase"},
+		{"id":"e6dc61c98364dad1","type":"group","x":-400,"y":-440,"width":280,"height":100,"label":"First Phase"},
+		{"id":"3bcec51521aae28d","type":"text","text":"","x":-905,"y":-207,"width":250,"height":60},
+		{"id":"1ae4351b4ba76735","type":"text","text":"Build prototype","x":-385,"y":-420,"width":250,"height":60},
+		{"id":"51b7d15f9c85ee61","type":"text","text":"Product testing","x":-80,"y":-420,"width":250,"height":60},
+		{"id":"6175cb6a41f5e69b","type":"text","text":"Surveying of respondents","x":-80,"y":-340,"width":250,"height":60},
+		{"id":"c6fcc9eded742799","type":"text","text":"Survey assessment and improvement","x":-80,"y":-260,"width":250,"height":60},
+		{"id":"b4c86389597c1063","type":"text","text":"Reporting of product","x":-380,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"93bb395debaae0d6","fromNode":"51b7d15f9c85ee61","fromSide":"bottom","toNode":"6175cb6a41f5e69b","toSide":"top","color":"3"},
+		{"id":"106172bf3ad3c10d","fromNode":"6175cb6a41f5e69b","fromSide":"bottom","toNode":"c6fcc9eded742799","toSide":"top","color":"3"},
+		{"id":"d3cc00b8609f74a0","fromNode":"1ae4351b4ba76735","fromSide":"right","toNode":"51b7d15f9c85ee61","toSide":"left","color":"6"},
+		{"id":"06f8e1d53c51fd02","fromNode":"c6fcc9eded742799","fromSide":"left","toNode":"b4c86389597c1063","toSide":"right","color":"6"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"907c085ca3245fa1","x":-740,"y":-120,"width":400,"height":400,"type":"group","label":"Experimental Research"},
+		{"id":"d21d8beb359b9be3","type":"group","x":-300,"y":-120,"width":400,"height":400,"label":"Non-Experimental Research"},
+		{"id":"5be871b2d48677ae","x":-440,"y":-280,"width":250,"height":60,"type":"text","text":"Research Design"},
+		{"id":"c53b7b0007d4e129","x":-720,"y":-100,"width":250,"height":60,"type":"text","text":"Pre-experimental"},
+		{"id":"a12c275b322ff0ca","x":-720,"y":-20,"width":250,"height":62,"type":"text","text":"True-Experimental"},
+		{"id":"b796599f22164004","x":-720,"y":60,"width":250,"height":60,"type":"text","text":"Quasi-Experimental"},
+		{"id":"5c5175303f477182","x":-280,"y":-100,"width":250,"height":60,"type":"text","text":"Descriptive Research"}
+	],
+	"edges":[
+		{"id":"20856032b23dc159","fromNode":"5be871b2d48677ae","fromSide":"bottom","toNode":"907c085ca3245fa1","toSide":"top"},
+		{"id":"aa13b218794e01fe","fromNode":"5be871b2d48677ae","fromSide":"bottom","toNode":"d21d8beb359b9be3","toSide":"top"}
+	]
+}
