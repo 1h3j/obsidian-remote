@@ -7,6 +7,12 @@ kanban-plugin: list
 ## ✅ Done
 
 **Complete**
+- [x] :LiBookOpenCheck: PR Sign
+- [x] :LiBookOpenCheck: Chem Phys Sign
+- [x] :LiBookOpenCheck: Entrep Sign
+- [x] :LiBookOpenCheck: Philo Sign
+- [x] :LiBookOpenCheck: PR Notebook
+- [x] :LiBookOpenCheck: CLE Notebook
 - [x] 🔥 Research Revisions
 - [x] :LiBookOpenText: Entrepreneurship (Third Day)
 - [x] :LiComputer: ==IMPORTANT==: Study Research PowerPoint
@@ -53,17 +59,11 @@ kanban-plugin: list
 
 ## 🔥 In Progress (Prio:Top-Bottom)
 
-- [ ] :LiBookOpenCheck: CLE Notebook
-- [ ] :LiBookOpenCheck: PR Notebook
 
 
 ## :LiCalendarCheck: This Week <br>(Prio:Top-Bottom)
 
 - [ ] 🕺 Sayaw video
-- [ ] :LiBookOpenCheck: PR Sign
-- [ ] :LiBookOpenCheck: Chem Phys Sign
-- [ ] :LiBookOpenCheck: Entrep Sign
-- [ ] :LiBookOpenCheck: Philo Sign
 
 
 ## 📅 Planning To Do

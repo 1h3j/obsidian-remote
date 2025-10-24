@@ -2,7 +2,6 @@
 - [x] Senior -> "Sr." & Other Typos
 - [x] Introduction -- "Redundant statements"
 - [x] Title -- " - To minimize disturbance", " - Highschool"
-- [ ] Orientation Teachers for Procedure of the Study
 - [ ] Include all the limitations nabanggit:
 	- See recording
 - [x] Revise Formula 
@@ -10,13 +9,14 @@
 - [x] Masyadong maliit ung vicinity map
 - [ ] page 9 - new name
 - [ ] SOP "- #7"
-- [ ] SOP remove 1.4 (Answer is in 1.1, 1.3)
+- [x] SOP 1: substiture "effective"
+- [x] SOP remove 1.4 (Answer is in 1.1, 1.3)
 - [ ] Scope and limitations for Emergency
 - [ ] gap - no teacher notifier system
 # Features
 - [ ] 2 Monitor -- No more monitor
- - [ ] Add tutorial tangina mo whinzen
- - [ ] Default DND for break
- - [ ] See the schedule 
- - [ ] timeout
- - [ ] Admin account
+- [ ] Add tutorial tangina mo whinzen
+- [ ] Default DND for break
+- [ ] See the schedule 
+- [ ] timeout
+- [ ] Admin account
