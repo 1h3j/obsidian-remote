@@ -7,6 +7,10 @@ kanban-plugin: list
 ## ✅ Done
 
 **Complete**
+- [x] :LiFlaskConical: Chem Notes
+- [x] 🧑‍🔬PR2 Notes
+- [x] [[🪤Psychological Mind Traps]]
+- [x] :LiSubscript: Physics Notes
 - [x] :LiBookOpenCheck: PR Sign
 - [x] :LiBookOpenCheck: Chem Phys Sign
 - [x] :LiBookOpenCheck: Entrep Sign
@@ -64,6 +68,7 @@ kanban-plugin: list
 ## :LiCalendarCheck: This Week <br>(Prio:Top-Bottom)
 
 - [ ] 🕺 Sayaw video
+- [ ] :LiBellDot: Quickshell Create Notification Frontend
 
 
 ## 📅 Planning To Do
@@ -71,11 +76,7 @@ kanban-plugin: list
 - [ ] ✨Research Finish Mobile UI
 - [ ] ✨Research Server (TCP)
 - [ ] ✨Research Server (HTTP/s)
-- [ ] :LiSubscript: Physics Notes
-- [ ] 🧑‍🔬PR2 Notes
-- [ ] :LiFlaskConical: Chem Notes
 - [ ] :LiNotebookPen: Task Organizers
-- [ ] [[🪤Psychological Mind Traps]]
 
 
 ## :LiBrain: Brain Dump
@@ -130,6 +131,6 @@ kanban-plugin: list
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,false,false,false,false,false,false],"show-checkboxes":true,"hide-card-count":false,"lane-width":400}
+{"kanban-plugin":"list","list-collapse":[true,false,false,false,false,false,true],"show-checkboxes":true,"hide-card-count":false,"lane-width":400}
 ```
 %%

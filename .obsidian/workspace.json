@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some.md",
+                "file": "Research Revisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Some"
+              "title": "Research Revisions"
             }
           }
         ],
@@ -231,7 +231,7 @@
                     false,
                     false,
                     false,
-                    false
+                    true
                   ]
                 }
               },
@@ -323,7 +323,7 @@
   "active": "8e43ba1be4cf0a33",
   "lastOpenFiles": [
     "Boards/TODO Kanban.md",
-    "Some.md",
+    "Research Revisions.md",
     "Research Explanation.md",
     "Deep Work.md",
     "Notes from Kanban Boards/🪤Psychological Mind Traps.md",
